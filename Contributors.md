@@ -66,6 +66,7 @@ Matthew Burgos
 - [Lars Magelssen](https://github.com/l4rma)
 - [Alex Bascevan](https://github.com/alexbascevan)
 - [Alexander DaCosta](https://github.com/dachourico)
+- [Miguel Sambati] (https://github.com/magualitos)
 - [Sourav Manikandan](https://github.com/souravmanikandan)
 - [Satish Birhade](https://github.com/SatishB15)
 -[Stefany Pinzon](https://github.com/stefanybyte)
